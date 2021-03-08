@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "name": "Klase",
+    "description": "Klase",
+    "psr-4": {
+      "KlaseApp\\": "app"
+    }
+  }
+}
